@@ -1,0 +1,7 @@
+# 実行のたびに生成されるもの（コミットしない）
+logs/
+wiki/
+corpus_all/
+__pycache__/
+*.log
+*.pyc
